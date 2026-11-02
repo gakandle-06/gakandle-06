@@ -12,7 +12,7 @@ I'm a **Computer Science & Data Science student at Lake Forest College** focused
 - Improving deep learning models, deploying ML applications, and learning more about **scalable AI systems**.
 
 #### Currently Learning
-- **C++, deep learning, computer vision, React**, and modern software development.
+- **C, deep learning, computer vision, React**, and modern software development.
 
 ---
 
